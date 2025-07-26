@@ -7,7 +7,7 @@ The project focuses on analyzing a retail marketing campaign dataset to predict 
 
 ## 📦 Dataset Overview
 
-- **File**: `marketing_campaign.csv`
+- **File**: [`marketing_campaign.csv`](https://github.com/Irin-Thomas/Marketing-Campaign-Customer-Analysis/blob/main/Dataset/Marketing%20Campaign%20data.csv)
 - **Records**: 1500 customers
 - **Variables**: 19 attributes including socio-demographic data, product ownership, and `COMMENTS`.
 - **Target Variable**: `AFFINITY_CARD` (1 = High-value, 0 = Low-value)
@@ -67,9 +67,9 @@ The project focuses on analyzing a retail marketing campaign dataset to predict 
 - Sentiment analysis of `COMMENTS` had limited influence on prediction, suggesting a need for better text processing techniques.
 
 ---
-📚 References
+## 📚 References
 Citations and source materials are listed in the final report PDF [IRIN PYTHON REPORT.pdf](https://github.com/Irin-Thomas/Marketing-Campaign-Customer-Analysis/blob/main/Report/IRIN%20%20PYTHON%20REPORT.pdf) 
 
-📬 Contact
+## 📬 Contact
 Author: Irin Mary Thomas
 Email: irinthomas0@gmail.com
