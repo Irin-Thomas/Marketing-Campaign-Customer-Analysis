@@ -41,9 +41,9 @@ This repository contains the complete coursework project for **CC7182: Programmi
 
 ## 📂 Folder Structure
 
-- Code
-- Dataset
-- Report
+- [Code -> Code for the project](https://github.com/Irin-Thomas/Marketing-Campaign-Customer-Analysis/tree/main/Code) 
+- [Dataset -> Dataset used in the code](https://github.com/Irin-Thomas/Marketing-Campaign-Customer-Analysis/blob/main/Dataset/Marketing%20Campaign%20data.csv)
+- [Report -> Report for evrything done in this project](https://github.com/Irin-Thomas/Marketing-Campaign-Customer-Analysis/blob/main/Report/IRIN%20%20PYTHON%20REPORT.pdf)
 ---
 
 ## ✅ Task Checklist
