@@ -41,7 +41,9 @@ This repository contains the complete coursework project for **CC7182: Programmi
 
 ## 📂 Folder Structure
 
-
+- Code
+- Dataset
+- Report
 ---
 
 ## ✅ Task Checklist
@@ -66,6 +68,9 @@ This repository contains the complete coursework project for **CC7182: Programmi
 - Sentiment analysis of `COMMENTS` had limited influence on prediction, suggesting a need for better text processing techniques.
 
 ---
-## ✍️ Author
-Irin Thomas
-irinthomas0.thomas@gmail.com 
+📚 References
+Citations and source materials are listed in the final report PDF [IRIN PYTHON REPORT.pdf](https://github.com/Irin-Thomas/Marketing-Campaign-Customer-Analysis/blob/main/Report/IRIN%20%20PYTHON%20REPORT.pdf) 
+
+📬 Contact
+Author: Irin Mary Thomas
+Email: irinthomas0@gmail.com
