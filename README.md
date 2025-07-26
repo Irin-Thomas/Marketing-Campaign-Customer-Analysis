@@ -1,10 +1,7 @@
 # 🧠 Marketing Campaign Customer Affinity Analysis
 
-This repository contains the complete coursework project for **CC7182: Programming for Analytics (Spring 2024–2025)**. The project focuses on analyzing a retail marketing campaign dataset to predict high-value customers (`AFFINITY_CARD = 1`) using structured data processing, statistical analysis, and machine learning.
+The project focuses on analyzing a retail marketing campaign dataset to predict high-value customers (`AFFINITY_CARD = 1`) using structured data processing, statistical analysis, and machine learning.
 
-📅 **Submission Date**: 9th May 2025  
-👤 **Student Name**: *Irin Thomas*  
-🏫 **Institution**: London Metropolitan University
 
 ---
 
@@ -46,16 +43,18 @@ This repository contains the complete coursework project for **CC7182: Programmi
 - [Report -> Report about everything done in the project](https://github.com/Irin-Thomas/Marketing-Campaign-Customer-Analysis/blob/main/Report/IRIN%20%20PYTHON%20REPORT.pdf)
 ---
 
-## ✅ Task Checklist
 
-| Task ID | Description                                                             | Status |
-|--------|-------------------------------------------------------------------------|--------|
-| 1      | Metadata summary + missing/error analysis                               | ✅     |
-| 2      | Data cleaning + feature transformation (binary, ordinal, one-hot)       | ✅     |
-| 3      | Correlation matrix + sentiment analysis                                 | ✅     |
-| 4      | Interactive histogram display script                                    | ✅     |
-| 5      | Logistic regression model build, evaluation, prediction app             | ✅     |
-| 6      | Technical report with findings, reflections, and recommendations        | ✅     |
+## 📦 Project Deliverables
+
+| #    | Description                                                                 |
+|------|------------------------------------------------------------------------------|
+| 1    | Metadata summary and missing/error analysis                                  |
+| 2    | Data cleaning and feature transformation (binary, ordinal, one-hot encoding)|
+| 3    | Correlation matrix and sentiment analysis                                    |
+| 4    | Interactive histogram display script                                         |
+| 5    | Logistic regression model, evaluation, and prediction interface              |
+| 6    | Technical report with findings, reflections, and recommendations             |
+
 
 ---
 
